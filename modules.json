@@ -250,5 +250,47 @@
     "homepageUrl": "https://github.com/MRepoApp/MRepo",
     "readme": "https://github.com/MRepoApp/MRepo/blob/master/README.md",
     "category": "实用工具"
+  },
+  {
+    "moduleId": "rezysc",
+    "name": "ReZygisk",
+    "version": "v1.2.0",
+    "versionCode": 120,
+    "author": "taojinzi",
+    "description": "Zygisk implementation for KernelSU and APatch.",
+    "summary": "Zygisk 实现（替代 Zygisk Next）",
+    "downloadUrl": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip",
+    "icon": "",
+    "homepageUrl": "https://github.com/taojinzi/ReZygisk",
+    "readme": "https://github.com/taojinzi/ReZygisk/blob/main/README.md",
+    "category": "基础框架"
+  },
+  {
+    "moduleId": "zygisk_mount",
+    "name": "Zygisk Mount",
+    "version": "v1.0.0",
+    "versionCode": 100,
+    "author": "KernelSU-Modules-Repo",
+    "description": "Mount zygisk modules systemlessly.",
+    "summary": "Zygisk 模块挂载工具",
+    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip",
+    "icon": "",
+    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
+    "readme": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/blob/main/README.md",
+    "category": "基础框架"
+  },
+  {
+    "moduleId": "webui_support",
+    "name": "WebUI Support",
+    "version": "v1.0.0",
+    "versionCode": 100,
+    "author": "KernelSU-Modules-Repo",
+    "description": "Add WebUI support for KernelSU modules.",
+    "summary": "模块 WebUI 支持",
+    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/webui-support/releases/latest/download/webui-support.zip",
+    "icon": "",
+    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/webui-support",
+    "readme": "https://github.com/KernelSU-Modules-Repo/webui-support/blob/main/README.md",
+    "category": "实用工具"
   }
 ]
