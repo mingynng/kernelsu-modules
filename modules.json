@@ -1,0 +1,57 @@
+[
+  {
+    "moduleId": "playintegrityfix",
+    "name": "Play Integrity Fix",
+    "version": "v19.2",
+    "versionCode": 192,
+    "author": "chiteroman, KOWX712",
+    "description": "Fix Play Integrity (and SafetyNet) verdicts.",
+    "summary": "绕过 Play 完整性检测",
+    "downloadUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
+    "homepageUrl": "https://github.com/KOWX712/PlayIntegrityFix"
+  },
+  {
+    "moduleId": "tricky_store",
+    "name": "Tricky Store",
+    "version": "v3.3.0",
+    "versionCode": 330,
+    "author": "5ec1cff",
+    "description": "Flexible and easy to use key attestation module.",
+    "summary": "密钥认证绕过",
+    "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
+    "homepageUrl": "https://github.com/5ec1cff/TrickyStore"
+  },
+  {
+    "moduleId": "zygisk_next",
+    "name": "Zygisk Next",
+    "version": "v1.0.6",
+    "versionCode": 106,
+    "author": "Dr-TSNG",
+    "description": "Zygisk implementation for KernelSU.",
+    "summary": "Zygisk 兼容层",
+    "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip",
+    "homepageUrl": "https://github.com/Dr-TSNG/ZygiskNext"
+  },
+  {
+    "moduleId": "lsposed",
+    "name": "LSPosed",
+    "version": "v1.10.3",
+    "versionCode": 11030,
+    "author": "LSPosed Team",
+    "description": "LSPosed Framework based on Zygisk.",
+    "summary": "Xposed 框架",
+    "downloadUrl": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip",
+    "homepageUrl": "https://github.com/LSPosed/LSPosed"
+  },
+  {
+    "moduleId": "hide_my_applist",
+    "name": "Hide My Applist",
+    "version": "v3.5.2",
+    "versionCode": 352,
+    "author": "Dr-TSNG",
+    "description": "Hide your applist from any apps.",
+    "summary": "隐藏应用列表",
+    "downloadUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip",
+    "homepageUrl": "https://github.com/Dr-TSNG/Hide-My-Applist"
+  }
+]
