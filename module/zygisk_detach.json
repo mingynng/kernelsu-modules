@@ -1,11 +1,25 @@
 {
+  "readme": "# Zygisk-Detach\n\n让应用从 Play 商店隐藏（防止 Play 检测）",
+  "readmeHTML": "<h2>Zygisk-Detach</h2><p>让应用从 Play 商店隐藏（防止 Play 检测）</p>",
+  "homepageUrl": "https://github.com/j-hc/zygisk-detach",
+  "sourceUrl": "https://github.com/j-hc/zygisk-detach",
+  "url": "https://github.com/j-hc/zygisk-detach",
+  "latestRelease": {
+    "name": "v0.6.5",
+    "time": "2026-10-10T06:12:14Z",
+    "downloadUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip"
+  },
+  "latestTag": "v0.6.5",
+  "latestTime": "2026-10-10T06:12:14Z",
+  "latestAssetName": "zygisk_detach.zip",
+  "latestAssetUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
   "releases": [
     {
       "name": "v0.6.5",
       "tagName": "v0.6.5",
-      "publishedAt": "2026-10-10T05:51:59Z",
+      "publishedAt": "2026-10-10T06:12:14Z",
       "descriptionHTML": "<p>让应用从 Play 商店隐藏（防止 Play 检测）</p>",
-      "assets": [
+      "releaseAssets": [
         {
           "name": "zygisk_detach.zip",
           "downloadUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
@@ -14,14 +28,5 @@
         }
       ]
     }
-  ],
-  "homepageUrl": "https://github.com/j-hc/zygisk-detach",
-  "sourceUrl": "https://github.com/j-hc/zygisk-detach",
-  "url": "https://github.com/j-hc/zygisk-detach",
-  "readme": "",
-  "readmeHtml": "<h2>Zygisk-Detach</h2><p>让应用从 Play 商店隐藏（防止 Play 检测）</p>",
-  "latestTag": "v0.6.5",
-  "latestTime": "2026-10-10T05:51:59Z",
-  "latestAssetName": "zygisk_detach.zip",
-  "latestAssetUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip"
+  ]
 }
