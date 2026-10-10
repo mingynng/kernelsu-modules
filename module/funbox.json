@@ -1,0 +1,27 @@
+{
+  "releases": [
+    {
+      "name": "v2.0.0",
+      "tagName": "v2.0.0",
+      "publishedAt": "2026-10-10T05:52:06Z",
+      "descriptionHTML": "<p>性能增强（温控/存储/网络优化）</p>",
+      "assets": [
+        {
+          "name": "funbox.zip",
+          "downloadUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
+          "size": 0,
+          "downloadCount": 0
+        }
+      ]
+    }
+  ],
+  "homepageUrl": "https://funbox.magisk.zip",
+  "sourceUrl": "https://funbox.magisk.zip",
+  "url": "https://funbox.magisk.zip",
+  "readme": "",
+  "readmeHtml": "<h2>FunBox</h2><p>性能增强（温控/存储/网络优化）</p>",
+  "latestTag": "v2.0.0",
+  "latestTime": "2026-10-10T05:52:06Z",
+  "latestAssetName": "funbox.zip",
+  "latestAssetUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip"
+}
