@@ -1,24 +1,24 @@
 {
-  "readme": "# Zygisk Next\n\nZygisk 兼容层（装 LSPosed 必装）",
-  "readmeHTML": "<h2>Zygisk Next</h2><p>Zygisk 兼容层（装 LSPosed 必装）</p>",
+  "readme": "# Zygisk Next\n\nZygisk 兼容层（装 LSPosed 必装）\n\n[查看作者官网和完整介绍](https://github.com/Dr-TSNG/ZygiskNext)\n",
+  "readmeHTML": "\n<h2>Zygisk Next</h2>\n<p>Zygisk 兼容层（装 LSPosed 必装）</p>\n<p><a href=\"https://github.com/Dr-TSNG/ZygiskNext\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/Dr-TSNG/ZygiskNext",
   "sourceUrl": "https://github.com/Dr-TSNG/ZygiskNext",
   "url": "https://github.com/Dr-TSNG/ZygiskNext",
   "latestRelease": {
     "name": "v1.0.6",
-    "time": "2026-10-10T06:12:06Z",
+    "time": "2026-10-10T06:19:38Z",
     "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip"
   },
   "latestTag": "v1.0.6",
-  "latestTime": "2026-10-10T06:12:06Z",
+  "latestTime": "2026-10-10T06:19:38Z",
   "latestAssetName": "zygisk_next.zip",
   "latestAssetUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip",
   "releases": [
     {
       "name": "v1.0.6",
       "tagName": "v1.0.6",
-      "publishedAt": "2026-10-10T06:12:06Z",
-      "descriptionHTML": "<p>Zygisk 兼容层（装 LSPosed 必装）</p>",
+      "publishedAt": "2026-10-10T06:19:38Z",
+      "descriptionHTML": "<p>Zygisk 兼容层（装 LSPosed 必装）</p><p><a href=\"https://github.com/Dr-TSNG/ZygiskNext\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "zygisk_next.zip",
