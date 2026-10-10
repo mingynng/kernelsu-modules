@@ -1,24 +1,24 @@
 {
-  "readme": "# FunBox\n\n性能增强（温控/存储/网络优化）\n\n[查看作者官网和完整介绍](https://funbox.magisk.zip)\n",
-  "readmeHTML": "\n<h2>FunBox</h2>\n<p>性能增强（温控/存储/网络优化）</p>\n<p><a href=\"https://funbox.magisk.zip\">👉 查看作者官网和完整介绍</a></p>\n",
+  "readme": "# FunBox\n\n**版本：** v2.0.0  \n**作者：** funbox-dev\n\n## 简介\n性能增强（温控/存储/网络优化）\n\n## 功能\n- ✅ 兼容 KernelSU / APatch / Magisk\n- ✅ 无需手动配置，安装即用\n- ✅ 支持在线更新\n\n## 下载\n[👉 点击下载最新版本](https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip)\n\n## 更多信息\n- [👉 访问作者 GitHub 仓库](https://funbox.magisk.zip)\n- [👉 反馈问题 / 查看更新日志](https://funbox.magisk.zip/issues)\n",
+  "readmeHTML": "\n<div style=\"padding: 16px;\">\n  <h2>FunBox</h2>\n  \n  <p><strong>版本：</strong>v2.0.0</p>\n  <p><strong>作者：</strong>funbox-dev</p>\n  \n  <h3>简介</h3>\n  <p>性能增强（温控/存储/网络优化）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://funbox.magisk.zip\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://funbox.magisk.zip/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
   "homepageUrl": "https://funbox.magisk.zip",
   "sourceUrl": "https://funbox.magisk.zip",
   "url": "https://funbox.magisk.zip",
   "latestRelease": {
     "name": "v2.0.0",
-    "time": "2026-10-10T06:19:54Z",
+    "time": "2026-10-10T06:22:30Z",
     "downloadUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip"
   },
   "latestTag": "v2.0.0",
-  "latestTime": "2026-10-10T06:19:54Z",
+  "latestTime": "2026-10-10T06:22:30Z",
   "latestAssetName": "funbox.zip",
   "latestAssetUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
   "releases": [
     {
       "name": "v2.0.0",
       "tagName": "v2.0.0",
-      "publishedAt": "2026-10-10T06:19:54Z",
-      "descriptionHTML": "<p>性能增强（温控/存储/网络优化）</p><p><a href=\"https://funbox.magisk.zip\">作者官网 →</a></p>",
+      "publishedAt": "2026-10-10T06:22:30Z",
+      "descriptionHTML": "\n<div style=\"padding: 16px;\">\n  <h2>FunBox</h2>\n  \n  <p><strong>版本：</strong>v2.0.0</p>\n  <p><strong>作者：</strong>funbox-dev</p>\n  \n  <h3>简介</h3>\n  <p>性能增强（温控/存储/网络优化）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://funbox.magisk.zip\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://funbox.magisk.zip/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
       "releaseAssets": [
         {
           "name": "funbox.zip",
