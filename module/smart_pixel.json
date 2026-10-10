@@ -1,0 +1,27 @@
+{
+  "releases": [
+    {
+      "name": "v1.7.0",
+      "tagName": "v1.7.0",
+      "publishedAt": "2026-10-10T05:52:08Z",
+      "descriptionHTML": "<p>Pixel 设备特性移植</p>",
+      "assets": [
+        {
+          "name": "smart_pixel.zip",
+          "downloadUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip",
+          "size": 0,
+          "downloadCount": 0
+        }
+      ]
+    }
+  ],
+  "homepageUrl": "https://github.com/itsmalik030/Smart-Pixels",
+  "sourceUrl": "https://github.com/itsmalik030/Smart-Pixels",
+  "url": "https://github.com/itsmalik030/Smart-Pixels",
+  "readme": "",
+  "readmeHtml": "<h2>Smart Pixels</h2><p>Pixel 设备特性移植</p>",
+  "latestTag": "v1.7.0",
+  "latestTime": "2026-10-10T05:52:08Z",
+  "latestAssetName": "smart_pixel.zip",
+  "latestAssetUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip"
+}
