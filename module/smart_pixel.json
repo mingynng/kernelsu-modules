@@ -1,24 +1,24 @@
 {
-  "readme": "# Smart Pixels\n\nPixel 设备特性移植",
-  "readmeHTML": "<h2>Smart Pixels</h2><p>Pixel 设备特性移植</p>",
+  "readme": "# Smart Pixels\n\nPixel 设备特性移植\n\n[查看作者官网和完整介绍](https://github.com/itsmalik030/Smart-Pixels)\n",
+  "readmeHTML": "\n<h2>Smart Pixels</h2>\n<p>Pixel 设备特性移植</p>\n<p><a href=\"https://github.com/itsmalik030/Smart-Pixels\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/itsmalik030/Smart-Pixels",
   "sourceUrl": "https://github.com/itsmalik030/Smart-Pixels",
   "url": "https://github.com/itsmalik030/Smart-Pixels",
   "latestRelease": {
     "name": "v1.7.0",
-    "time": "2026-10-10T06:12:25Z",
+    "time": "2026-10-10T06:19:56Z",
     "downloadUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip"
   },
   "latestTag": "v1.7.0",
-  "latestTime": "2026-10-10T06:12:25Z",
+  "latestTime": "2026-10-10T06:19:56Z",
   "latestAssetName": "smart_pixel.zip",
   "latestAssetUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip",
   "releases": [
     {
       "name": "v1.7.0",
       "tagName": "v1.7.0",
-      "publishedAt": "2026-10-10T06:12:25Z",
-      "descriptionHTML": "<p>Pixel 设备特性移植</p>",
+      "publishedAt": "2026-10-10T06:19:56Z",
+      "descriptionHTML": "<p>Pixel 设备特性移植</p><p><a href=\"https://github.com/itsmalik030/Smart-Pixels\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "smart_pixel.zip",
