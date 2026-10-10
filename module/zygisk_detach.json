@@ -1,24 +1,24 @@
 {
-  "readme": "# Zygisk-Detach\n\n让应用从 Play 商店隐藏（防止 Play 检测）",
-  "readmeHTML": "<h2>Zygisk-Detach</h2><p>让应用从 Play 商店隐藏（防止 Play 检测）</p>",
+  "readme": "# Zygisk-Detach\n\n让应用从 Play 商店隐藏（防止 Play 检测）\n\n[查看作者官网和完整介绍](https://github.com/j-hc/zygisk-detach)\n",
+  "readmeHTML": "\n<h2>Zygisk-Detach</h2>\n<p>让应用从 Play 商店隐藏（防止 Play 检测）</p>\n<p><a href=\"https://github.com/j-hc/zygisk-detach\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/j-hc/zygisk-detach",
   "sourceUrl": "https://github.com/j-hc/zygisk-detach",
   "url": "https://github.com/j-hc/zygisk-detach",
   "latestRelease": {
     "name": "v0.6.5",
-    "time": "2026-10-10T06:12:14Z",
+    "time": "2026-10-10T06:19:46Z",
     "downloadUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip"
   },
   "latestTag": "v0.6.5",
-  "latestTime": "2026-10-10T06:12:14Z",
+  "latestTime": "2026-10-10T06:19:46Z",
   "latestAssetName": "zygisk_detach.zip",
   "latestAssetUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
   "releases": [
     {
       "name": "v0.6.5",
       "tagName": "v0.6.5",
-      "publishedAt": "2026-10-10T06:12:14Z",
-      "descriptionHTML": "<p>让应用从 Play 商店隐藏（防止 Play 检测）</p>",
+      "publishedAt": "2026-10-10T06:19:46Z",
+      "descriptionHTML": "<p>让应用从 Play 商店隐藏（防止 Play 检测）</p><p><a href=\"https://github.com/j-hc/zygisk-detach\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "zygisk_detach.zip",
