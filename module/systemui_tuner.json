@@ -1,24 +1,24 @@
 {
-  "readme": "# SystemUI Tuner\n\n系统 UI 高级自定义",
-  "readmeHTML": "<h2>SystemUI Tuner</h2><p>系统 UI 高级自定义</p>",
+  "readme": "# SystemUI Tuner\n\n系统 UI 高级自定义\n\n[查看作者官网和完整介绍](https://github.com/zacharee/Tweaker)\n",
+  "readmeHTML": "\n<h2>SystemUI Tuner</h2>\n<p>系统 UI 高级自定义</p>\n<p><a href=\"https://github.com/zacharee/Tweaker\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/zacharee/Tweaker",
   "sourceUrl": "https://github.com/zacharee/Tweaker",
   "url": "https://github.com/zacharee/Tweaker",
   "latestRelease": {
     "name": "v3.0.0",
-    "time": "2026-10-10T06:12:27Z",
+    "time": "2026-10-10T06:19:58Z",
     "downloadUrl": "https://github.com/zacharee/Tweaker/releases/latest/download/SystemUITuner.apk"
   },
   "latestTag": "v3.0.0",
-  "latestTime": "2026-10-10T06:12:27Z",
+  "latestTime": "2026-10-10T06:19:58Z",
   "latestAssetName": "systemui_tuner.zip",
   "latestAssetUrl": "https://github.com/zacharee/Tweaker/releases/latest/download/SystemUITuner.apk",
   "releases": [
     {
       "name": "v3.0.0",
       "tagName": "v3.0.0",
-      "publishedAt": "2026-10-10T06:12:27Z",
-      "descriptionHTML": "<p>系统 UI 高级自定义</p>",
+      "publishedAt": "2026-10-10T06:19:58Z",
+      "descriptionHTML": "<p>系统 UI 高级自定义</p><p><a href=\"https://github.com/zacharee/Tweaker\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "systemui_tuner.zip",
