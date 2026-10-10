@@ -1,0 +1,27 @@
+{
+  "releases": [
+    {
+      "name": "v1.0.5",
+      "tagName": "v1.0.5",
+      "publishedAt": "2026-10-10T05:52:20Z",
+      "descriptionHTML": "<p>第三方模块管理器（功能更强）</p>",
+      "assets": [
+        {
+          "name": "mrepo.zip",
+          "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk",
+          "size": 0,
+          "downloadCount": 0
+        }
+      ]
+    }
+  ],
+  "homepageUrl": "https://github.com/MRepoApp/MRepo",
+  "sourceUrl": "https://github.com/MRepoApp/MRepo",
+  "url": "https://github.com/MRepoApp/MRepo",
+  "readme": "",
+  "readmeHtml": "<h2>MRepo</h2><p>第三方模块管理器（功能更强）</p>",
+  "latestTag": "v1.0.5",
+  "latestTime": "2026-10-10T05:52:20Z",
+  "latestAssetName": "mrepo.zip",
+  "latestAssetUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk"
+}
