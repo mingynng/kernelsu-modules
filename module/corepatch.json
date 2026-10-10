@@ -1,24 +1,24 @@
 {
-  "readme": "# CorePatch\n\nZygisk 核心补丁",
-  "readmeHTML": "<h2>CorePatch</h2><p>Zygisk 核心补丁</p>",
+  "readme": "# CorePatch\n\nZygisk 核心补丁\n\n[查看作者官网和完整介绍](https://github.com/LSPosed/CorePatch)\n",
+  "readmeHTML": "\n<h2>CorePatch</h2>\n<p>Zygisk 核心补丁</p>\n<p><a href=\"https://github.com/LSPosed/CorePatch\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/LSPosed/CorePatch",
   "sourceUrl": "https://github.com/LSPosed/CorePatch",
   "url": "https://github.com/LSPosed/CorePatch",
   "latestRelease": {
     "name": "v1.5.0",
-    "time": "2026-10-10T06:12:32Z",
+    "time": "2026-10-10T06:20:03Z",
     "downloadUrl": "https://github.com/LSPosed/CorePatch/releases/latest/download/CorePatch.zip"
   },
   "latestTag": "v1.5.0",
-  "latestTime": "2026-10-10T06:12:32Z",
+  "latestTime": "2026-10-10T06:20:03Z",
   "latestAssetName": "corepatch.zip",
   "latestAssetUrl": "https://github.com/LSPosed/CorePatch/releases/latest/download/CorePatch.zip",
   "releases": [
     {
       "name": "v1.5.0",
       "tagName": "v1.5.0",
-      "publishedAt": "2026-10-10T06:12:32Z",
-      "descriptionHTML": "<p>Zygisk 核心补丁</p>",
+      "publishedAt": "2026-10-10T06:20:03Z",
+      "descriptionHTML": "<p>Zygisk 核心补丁</p><p><a href=\"https://github.com/LSPosed/CorePatch\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "corepatch.zip",
