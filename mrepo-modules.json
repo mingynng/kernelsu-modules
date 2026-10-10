@@ -1,0 +1,450 @@
+{
+  "name": "mingynng KernelSU Modules",
+  "timestamp": 1791608734976,
+  "metadata": {
+    "homepage": "https://github.com/mingynng/kernelsu-modules"
+  },
+  "modules": [
+    {
+      "id": "playintegrityfix",
+      "name": "Play Integrity Fix",
+      "version": "v19.2",
+      "version_code": 192,
+      "author": "chiteroman, KOWX712",
+      "description": "Fix Play Integrity (and SafetyNet) verdicts. Pass basic, device, and strong integrity checks.",
+      "metadata": {
+        "source": "https://github.com/KOWX712/PlayIntegrityFix",
+        "support": "https://github.com/KOWX712/PlayIntegrityFix/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v19.2",
+          "version_code": 192,
+          "zip_url": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
+          "changelog": "https://github.com/KOWX712/PlayIntegrityFix/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v3.3.0",
+      "version_code": 330,
+      "author": "5ec1cff",
+      "description": "Flexible and easy to use key attestation and keystore manipulation module. Supports Keybox injection.",
+      "metadata": {
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "support": "https://github.com/5ec1cff/TrickyStore/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v3.3.0",
+          "version_code": 330,
+          "zip_url": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
+          "changelog": "https://github.com/5ec1cff/TrickyStore/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_next",
+      "name": "Zygisk Next",
+      "version": "v1.0.6",
+      "version_code": 106,
+      "author": "Dr-TSNG",
+      "description": "A complete type of Zygisk implementation for KernelSU and APatch. Required for LSPosed and Zygisk modules.",
+      "metadata": {
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "support": "https://github.com/Dr-TSNG/ZygiskNext/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.0.6",
+          "version_code": 106,
+          "zip_url": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip",
+          "changelog": "https://github.com/Dr-TSNG/ZygiskNext/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "lsposed",
+      "name": "LSPosed",
+      "version": "v1.10.3",
+      "version_code": 11030,
+      "author": "LSPosed Team",
+      "description": "LSPosed Framework based on Zygisk. The most popular Xposed framework for Android.",
+      "metadata": {
+        "source": "https://github.com/LSPosed/LSPosed",
+        "support": "https://github.com/LSPosed/LSPosed/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.10.3",
+          "version_code": 11030,
+          "zip_url": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip",
+          "changelog": "https://github.com/LSPosed/LSPosed/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "hide_my_applist",
+      "name": "Hide My Applist",
+      "version": "v3.5.2",
+      "version_code": 352,
+      "author": "Dr-TSNG",
+      "description": "Hide your applist from any apps or any packages. Protect your privacy.",
+      "metadata": {
+        "source": "https://github.com/Dr-TSNG/Hide-My-Applist",
+        "support": "https://github.com/Dr-TSNG/Hide-My-Applist/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v3.5.2",
+          "version_code": 352,
+          "zip_url": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip",
+          "changelog": "https://github.com/Dr-TSNG/Hide-My-Applist/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "shamiko",
+      "name": "Shamiko",
+      "version": "v1.2.0",
+      "version_code": 120,
+      "author": "LSPosed",
+      "description": "LSPosed's Zygisk module to hide root from others. DenyList implementation.",
+      "metadata": {
+        "source": "https://github.com/LSPosed/LSPosed.github.io",
+        "support": "https://github.com/LSPosed/LSPosed.github.io/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.2.0",
+          "version_code": 120,
+          "zip_url": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
+          "changelog": "https://github.com/LSPosed/LSPosed.github.io/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_detach",
+      "name": "Zygisk-Detach",
+      "version": "v0.6.5",
+      "version_code": 65,
+      "author": "j-hc",
+      "description": "Zygisk module to detach installed apps from Play Store, hooking binder.",
+      "metadata": {
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "support": "https://github.com/j-hc/zygisk-detach/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v0.6.5",
+          "version_code": 65,
+          "zip_url": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
+          "changelog": "https://github.com/j-hc/zygisk-detach/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "magic_overlayfs",
+      "name": "Magic OverlayFS",
+      "version": "v1.3.2",
+      "version_code": 132,
+      "author": "KernelSU-Modules-Repo",
+      "description": "Magic Mount implementation via OverlayFS for KernelSU. Required for modules that modify /system files.",
+      "metadata": {
+        "source": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs",
+        "support": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.3.2",
+          "version_code": 132,
+          "zip_url": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/releases/latest/download/magic_overlayfs.zip",
+          "changelog": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "adaway",
+      "name": "AdAway",
+      "version": "v6.1.0",
+      "version_code": 610,
+      "author": "AdAway",
+      "description": "System-wide ad blocking using hosts file. No root required for basic use, but root version is more powerful.",
+      "metadata": {
+        "source": "https://adaway.org",
+        "support": "https://github.com/AdAway/AdAway/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v6.1.0",
+          "version_code": 610,
+          "zip_url": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk",
+          "changelog": "https://github.com/AdAway/AdAway/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "magnetar",
+      "name": "MAGNETAR",
+      "version": "v5.0.0",
+      "version_code": 500,
+      "author": "magnetar-dev",
+      "description": "Comprehensive device performance optimizer. Dynamic kernel tweaking with machine learning.",
+      "metadata": {
+        "source": "https://magnetar.magisk.zip",
+        "support": "https://github.com/magnetar-dev/magnetar/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v5.0.0",
+          "version_code": 500,
+          "zip_url": "https://github.com/magnetar-dev/magnetar/releases/latest/download/magnetar.zip",
+          "changelog": "https://github.com/magnetar-dev/magnetar/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "funbox",
+      "name": "FunBox",
+      "version": "v2.0.0",
+      "version_code": 200,
+      "author": "funbox-dev",
+      "description": "Boost Android performance. Thermal throttle control, storage optimization, network tuning.",
+      "metadata": {
+        "source": "https://funbox.magisk.zip",
+        "support": "https://github.com/funbox-dev/funbox/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v2.0.0",
+          "version_code": 200,
+          "zip_url": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
+          "changelog": "https://github.com/funbox-dev/funbox/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "smart_pixel",
+      "name": "Smart Pixels",
+      "version": "v1.7.0",
+      "version_code": 170,
+      "author": "itsmalik030",
+      "description": "Custom Pixel experience for any device. Enable Pixel-only features like Google Photos unlimited storage, call recording, etc.",
+      "metadata": {
+        "source": "https://github.com/itsmalik030/Smart-Pixels",
+        "support": "https://github.com/itsmalik030/Smart-Pixels/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.7.0",
+          "version_code": 170,
+          "zip_url": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip",
+          "changelog": "https://github.com/itsmalik030/Smart-Pixels/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "systemui_tuner",
+      "name": "SystemUI Tuner",
+      "version": "v3.0.0",
+      "version_code": 300,
+      "author": "zacharee",
+      "description": "Advanced SystemUI customization. Tweak status bar, navbar, quick settings, and more.",
+      "metadata": {
+        "source": "https://github.com/zacharee/Tweaker",
+        "support": "https://github.com/zacharee/Tweaker/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v3.0.0",
+          "version_code": 300,
+          "zip_url": "https://github.com/zacharee/Tweaker/releases/latest/download/SystemUITuner.apk",
+          "changelog": "https://github.com/zacharee/Tweaker/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "netproxy",
+      "name": "NetProxy",
+      "version": "v1.2.0",
+      "version_code": 120,
+      "author": "KernelSU-Modules-Repo",
+      "description": "System-wide proxy configuration module. Set HTTP/SOCKS proxy for all apps.",
+      "metadata": {
+        "source": "https://github.com/KernelSU-Modules-Repo/netproxy",
+        "support": "https://github.com/KernelSU-Modules-Repo/netproxy/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.2.0",
+          "version_code": 120,
+          "zip_url": "https://github.com/KernelSU-Modules-Repo/netproxy/releases/latest/download/netproxy.zip",
+          "changelog": "https://github.com/KernelSU-Modules-Repo/netproxy/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "deviceid_changer",
+      "name": "DeviceID Changer",
+      "version": "v2.0.0",
+      "version_code": 200,
+      "author": "KernelSU-Modules-Repo",
+      "description": "Change DeviceID/SSAID (Android ID) without wiping data.",
+      "metadata": {
+        "source": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
+        "support": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v2.0.0",
+          "version_code": 200,
+          "zip_url": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/releases/latest/download/deviceidchanger.zip",
+          "changelog": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "corepatch",
+      "name": "CorePatch",
+      "version": "v1.5.0",
+      "version_code": 150,
+      "author": "LSPosed",
+      "description": "Fix core patch issues for Zygisk. Required for some apps that detect Zygisk.",
+      "metadata": {
+        "source": "https://github.com/LSPosed/CorePatch",
+        "support": "https://github.com/LSPosed/CorePatch/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.5.0",
+          "version_code": 150,
+          "zip_url": "https://github.com/LSPosed/CorePatch/releases/latest/download/CorePatch.zip",
+          "changelog": "https://github.com/LSPosed/CorePatch/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "iamnotadeveloper",
+      "name": "IAmNotADeveloper",
+      "version": "v1.0.0",
+      "version_code": 100,
+      "author": "various",
+      "description": "Hide developer options and USB debugging status from apps that detect it.",
+      "metadata": {
+        "source": "https://github.com/iamnotadev/IAmNotADeveloper",
+        "support": "https://github.com/iamnotadev/IAmNotADeveloper/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.0.0",
+          "version_code": 100,
+          "zip_url": "https://github.com/iamnotadev/IAmNotADeveloper/releases/latest/download/IAmNotADeveloper.zip",
+          "changelog": "https://github.com/iamnotadev/IAmNotADeveloper/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "mrepo",
+      "name": "MRepo",
+      "version": "v1.0.5",
+      "version_code": 105,
+      "author": "MRepoApp",
+      "description": "A modern modules manager for Magisk, KernelSU and APatch. Alternative to the built-in manager.",
+      "metadata": {
+        "source": "https://github.com/MRepoApp/MRepo",
+        "support": "https://github.com/MRepoApp/MRepo/blob/master/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.0.5",
+          "version_code": 105,
+          "zip_url": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk",
+          "changelog": "https://github.com/MRepoApp/MRepo/blob/master/README.md"
+        }
+      ]
+    },
+    {
+      "id": "rezysc",
+      "name": "ReZygisk",
+      "version": "v1.2.0",
+      "version_code": 120,
+      "author": "taojinzi",
+      "description": "Zygisk implementation for KernelSU and APatch.",
+      "metadata": {
+        "source": "https://github.com/taojinzi/ReZygisk",
+        "support": "https://github.com/taojinzi/ReZygisk/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.2.0",
+          "version_code": 120,
+          "zip_url": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip",
+          "changelog": "https://github.com/taojinzi/ReZygisk/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "zygisk_mount",
+      "name": "Zygisk Mount",
+      "version": "v1.0.0",
+      "version_code": 100,
+      "author": "KernelSU-Modules-Repo",
+      "description": "Mount zygisk modules systemlessly.",
+      "metadata": {
+        "source": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
+        "support": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.0.0",
+          "version_code": 100,
+          "zip_url": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip",
+          "changelog": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/blob/main/README.md"
+        }
+      ]
+    },
+    {
+      "id": "webui_support",
+      "name": "WebUI Support",
+      "version": "v1.0.0",
+      "version_code": 100,
+      "author": "KernelSU-Modules-Repo",
+      "description": "Add WebUI support for KernelSU modules.",
+      "metadata": {
+        "source": "https://github.com/KernelSU-Modules-Repo/webui-support",
+        "support": "https://github.com/KernelSU-Modules-Repo/webui-support/blob/main/README.md"
+      },
+      "versions": [
+        {
+          "timestamp": 1791608734976,
+          "version": "v1.0.0",
+          "version_code": 100,
+          "zip_url": "https://github.com/KernelSU-Modules-Repo/webui-support/releases/latest/download/webui-support.zip",
+          "changelog": "https://github.com/KernelSU-Modules-Repo/webui-support/blob/main/README.md"
+        }
+      ]
+    }
+  ]
+}
