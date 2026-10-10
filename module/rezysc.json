@@ -1,24 +1,24 @@
 {
-  "readme": "# ReZygisk\n\nZygisk 实现（替代 Zygisk Next）",
-  "readmeHTML": "<h2>ReZygisk</h2><p>Zygisk 实现（替代 Zygisk Next）</p>",
+  "readme": "# ReZygisk\n\nZygisk 实现（替代 Zygisk Next）\n\n[查看作者官网和完整介绍](https://github.com/taojinzi/ReZygisk)\n",
+  "readmeHTML": "\n<h2>ReZygisk</h2>\n<p>Zygisk 实现（替代 Zygisk Next）</p>\n<p><a href=\"https://github.com/taojinzi/ReZygisk\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/taojinzi/ReZygisk",
   "sourceUrl": "https://github.com/taojinzi/ReZygisk",
   "url": "https://github.com/taojinzi/ReZygisk",
   "latestRelease": {
     "name": "v1.2.0",
-    "time": "2026-10-10T06:12:38Z",
+    "time": "2026-10-10T06:20:09Z",
     "downloadUrl": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip"
   },
   "latestTag": "v1.2.0",
-  "latestTime": "2026-10-10T06:12:38Z",
+  "latestTime": "2026-10-10T06:20:09Z",
   "latestAssetName": "rezysc.zip",
   "latestAssetUrl": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip",
   "releases": [
     {
       "name": "v1.2.0",
       "tagName": "v1.2.0",
-      "publishedAt": "2026-10-10T06:12:38Z",
-      "descriptionHTML": "<p>Zygisk 实现（替代 Zygisk Next）</p>",
+      "publishedAt": "2026-10-10T06:20:09Z",
+      "descriptionHTML": "<p>Zygisk 实现（替代 Zygisk Next）</p><p><a href=\"https://github.com/taojinzi/ReZygisk\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "rezysc.zip",
