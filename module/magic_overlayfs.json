@@ -1,24 +1,24 @@
 {
-  "readme": "# Magic OverlayFS\n\n元模块（修改系统文件必需）",
-  "readmeHTML": "<h2>Magic OverlayFS</h2><p>元模块（修改系统文件必需）</p>",
+  "readme": "# Magic OverlayFS\n\n元模块（修改系统文件必需）\n\n[查看作者官网和完整介绍](https://github.com/KernelSU-Modules-Repo/magic_overlayfs)\n",
+  "readmeHTML": "\n<h2>Magic OverlayFS</h2>\n<p>元模块（修改系统文件必需）</p>\n<p><a href=\"https://github.com/KernelSU-Modules-Repo/magic_overlayfs\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs",
   "sourceUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs",
   "url": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs",
   "latestRelease": {
     "name": "v1.3.2",
-    "time": "2026-10-10T06:12:16Z",
+    "time": "2026-10-10T06:19:48Z",
     "downloadUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/releases/latest/download/magic_overlayfs.zip"
   },
   "latestTag": "v1.3.2",
-  "latestTime": "2026-10-10T06:12:16Z",
+  "latestTime": "2026-10-10T06:19:48Z",
   "latestAssetName": "magic_overlayfs.zip",
   "latestAssetUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/releases/latest/download/magic_overlayfs.zip",
   "releases": [
     {
       "name": "v1.3.2",
       "tagName": "v1.3.2",
-      "publishedAt": "2026-10-10T06:12:16Z",
-      "descriptionHTML": "<p>元模块（修改系统文件必需）</p>",
+      "publishedAt": "2026-10-10T06:19:48Z",
+      "descriptionHTML": "<p>元模块（修改系统文件必需）</p><p><a href=\"https://github.com/KernelSU-Modules-Repo/magic_overlayfs\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "magic_overlayfs.zip",
