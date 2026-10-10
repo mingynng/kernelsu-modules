@@ -1,24 +1,24 @@
 {
-  "readme": "# LSPosed\n\nXposed 框架（模块开发必备）",
-  "readmeHTML": "<h2>LSPosed</h2><p>Xposed 框架（模块开发必备）</p>",
+  "readme": "# LSPosed\n\nXposed 框架（模块开发必备）\n\n[查看作者官网和完整介绍](https://github.com/LSPosed/LSPosed)\n",
+  "readmeHTML": "\n<h2>LSPosed</h2>\n<p>Xposed 框架（模块开发必备）</p>\n<p><a href=\"https://github.com/LSPosed/LSPosed\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/LSPosed/LSPosed",
   "sourceUrl": "https://github.com/LSPosed/LSPosed",
   "url": "https://github.com/LSPosed/LSPosed",
   "latestRelease": {
     "name": "v1.10.3",
-    "time": "2026-10-10T06:12:08Z",
+    "time": "2026-10-10T06:19:40Z",
     "downloadUrl": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip"
   },
   "latestTag": "v1.10.3",
-  "latestTime": "2026-10-10T06:12:08Z",
+  "latestTime": "2026-10-10T06:19:40Z",
   "latestAssetName": "lsposed.zip",
   "latestAssetUrl": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip",
   "releases": [
     {
       "name": "v1.10.3",
       "tagName": "v1.10.3",
-      "publishedAt": "2026-10-10T06:12:08Z",
-      "descriptionHTML": "<p>Xposed 框架（模块开发必备）</p>",
+      "publishedAt": "2026-10-10T06:19:40Z",
+      "descriptionHTML": "<p>Xposed 框架（模块开发必备）</p><p><a href=\"https://github.com/LSPosed/LSPosed\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "lsposed.zip",
