@@ -1,24 +1,24 @@
 {
-  "readme": "# Hide My Applist\n\n隐藏应用列表（防止应用扫描检测）",
-  "readmeHTML": "<h2>Hide My Applist</h2><p>隐藏应用列表（防止应用扫描检测）</p>",
+  "readme": "# Hide My Applist\n\n隐藏应用列表（防止应用扫描检测）\n\n[查看作者官网和完整介绍](https://github.com/Dr-TSNG/Hide-My-Applist)\n",
+  "readmeHTML": "\n<h2>Hide My Applist</h2>\n<p>隐藏应用列表（防止应用扫描检测）</p>\n<p><a href=\"https://github.com/Dr-TSNG/Hide-My-Applist\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/Dr-TSNG/Hide-My-Applist",
   "sourceUrl": "https://github.com/Dr-TSNG/Hide-My-Applist",
   "url": "https://github.com/Dr-TSNG/Hide-My-Applist",
   "latestRelease": {
     "name": "v3.5.2",
-    "time": "2026-10-10T06:12:10Z",
+    "time": "2026-10-10T06:19:42Z",
     "downloadUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip"
   },
   "latestTag": "v3.5.2",
-  "latestTime": "2026-10-10T06:12:10Z",
+  "latestTime": "2026-10-10T06:19:42Z",
   "latestAssetName": "hide_my_applist.zip",
   "latestAssetUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip",
   "releases": [
     {
       "name": "v3.5.2",
       "tagName": "v3.5.2",
-      "publishedAt": "2026-10-10T06:12:10Z",
-      "descriptionHTML": "<p>隐藏应用列表（防止应用扫描检测）</p>",
+      "publishedAt": "2026-10-10T06:19:42Z",
+      "descriptionHTML": "<p>隐藏应用列表（防止应用扫描检测）</p><p><a href=\"https://github.com/Dr-TSNG/Hide-My-Applist\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "hide_my_applist.zip",
