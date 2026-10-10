@@ -1,24 +1,24 @@
 {
-  "readme": "# NetProxy\n\n全系统代理设置",
-  "readmeHTML": "<h2>NetProxy</h2><p>全系统代理设置</p>",
+  "readme": "# NetProxy\n\n全系统代理设置\n\n[查看作者官网和完整介绍](https://github.com/KernelSU-Modules-Repo/netproxy)\n",
+  "readmeHTML": "\n<h2>NetProxy</h2>\n<p>全系统代理设置</p>\n<p><a href=\"https://github.com/KernelSU-Modules-Repo/netproxy\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/KernelSU-Modules-Repo/netproxy",
   "sourceUrl": "https://github.com/KernelSU-Modules-Repo/netproxy",
   "url": "https://github.com/KernelSU-Modules-Repo/netproxy",
   "latestRelease": {
     "name": "v1.2.0",
-    "time": "2026-10-10T06:12:29Z",
+    "time": "2026-10-10T06:20:00Z",
     "downloadUrl": "https://github.com/KernelSU-Modules-Repo/netproxy/releases/latest/download/netproxy.zip"
   },
   "latestTag": "v1.2.0",
-  "latestTime": "2026-10-10T06:12:29Z",
+  "latestTime": "2026-10-10T06:20:00Z",
   "latestAssetName": "netproxy.zip",
   "latestAssetUrl": "https://github.com/KernelSU-Modules-Repo/netproxy/releases/latest/download/netproxy.zip",
   "releases": [
     {
       "name": "v1.2.0",
       "tagName": "v1.2.0",
-      "publishedAt": "2026-10-10T06:12:29Z",
-      "descriptionHTML": "<p>全系统代理设置</p>",
+      "publishedAt": "2026-10-10T06:20:00Z",
+      "descriptionHTML": "<p>全系统代理设置</p><p><a href=\"https://github.com/KernelSU-Modules-Repo/netproxy\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "netproxy.zip",
