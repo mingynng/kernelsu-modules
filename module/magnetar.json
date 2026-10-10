@@ -1,24 +1,24 @@
 {
-  "readme": "# MAGNETAR\n\n智能内核性能优化",
-  "readmeHTML": "<h2>MAGNETAR</h2><p>智能内核性能优化</p>",
+  "readme": "# MAGNETAR\n\n智能内核性能优化\n\n[查看作者官网和完整介绍](https://magnetar.magisk.zip)\n",
+  "readmeHTML": "\n<h2>MAGNETAR</h2>\n<p>智能内核性能优化</p>\n<p><a href=\"https://magnetar.magisk.zip\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://magnetar.magisk.zip",
   "sourceUrl": "https://magnetar.magisk.zip",
   "url": "https://magnetar.magisk.zip",
   "latestRelease": {
     "name": "v5.0.0",
-    "time": "2026-10-10T06:12:21Z",
+    "time": "2026-10-10T06:19:52Z",
     "downloadUrl": "https://github.com/magnetar-dev/magnetar/releases/latest/download/magnetar.zip"
   },
   "latestTag": "v5.0.0",
-  "latestTime": "2026-10-10T06:12:21Z",
+  "latestTime": "2026-10-10T06:19:52Z",
   "latestAssetName": "magnetar.zip",
   "latestAssetUrl": "https://github.com/magnetar-dev/magnetar/releases/latest/download/magnetar.zip",
   "releases": [
     {
       "name": "v5.0.0",
       "tagName": "v5.0.0",
-      "publishedAt": "2026-10-10T06:12:21Z",
-      "descriptionHTML": "<p>智能内核性能优化</p>",
+      "publishedAt": "2026-10-10T06:19:52Z",
+      "descriptionHTML": "<p>智能内核性能优化</p><p><a href=\"https://magnetar.magisk.zip\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "magnetar.zip",
