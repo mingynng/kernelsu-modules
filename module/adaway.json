@@ -1,11 +1,25 @@
 {
+  "readme": "# AdAway\n\n全系统广告拦截",
+  "readmeHTML": "<h2>AdAway</h2><p>全系统广告拦截</p>",
+  "homepageUrl": "https://adaway.org",
+  "sourceUrl": "https://adaway.org",
+  "url": "https://adaway.org",
+  "latestRelease": {
+    "name": "v6.1.0",
+    "time": "2026-10-10T06:12:19Z",
+    "downloadUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk"
+  },
+  "latestTag": "v6.1.0",
+  "latestTime": "2026-10-10T06:12:19Z",
+  "latestAssetName": "adaway.zip",
+  "latestAssetUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk",
   "releases": [
     {
       "name": "v6.1.0",
       "tagName": "v6.1.0",
-      "publishedAt": "2026-10-10T05:52:03Z",
+      "publishedAt": "2026-10-10T06:12:19Z",
       "descriptionHTML": "<p>全系统广告拦截</p>",
-      "assets": [
+      "releaseAssets": [
         {
           "name": "adaway.zip",
           "downloadUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk",
@@ -14,14 +28,5 @@
         }
       ]
     }
-  ],
-  "homepageUrl": "https://adaway.org",
-  "sourceUrl": "https://adaway.org",
-  "url": "https://adaway.org",
-  "readme": "",
-  "readmeHtml": "<h2>AdAway</h2><p>全系统广告拦截</p>",
-  "latestTag": "v6.1.0",
-  "latestTime": "2026-10-10T05:52:03Z",
-  "latestAssetName": "adaway.zip",
-  "latestAssetUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk"
+  ]
 }
