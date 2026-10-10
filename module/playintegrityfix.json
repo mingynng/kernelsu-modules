@@ -1,24 +1,24 @@
 {
-  "readme": "# Play Integrity Fix\n\n绕过 Play 完整性检测（游戏/支付/银行必装）\n\n[查看作者官网和完整介绍](https://github.com/KOWX712/PlayIntegrityFix)\n",
-  "readmeHTML": "\n<h2>Play Integrity Fix</h2>\n<p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>\n<p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">👉 查看作者官网和完整介绍</a></p>\n",
+  "readme": "# Play Integrity Fix\n\n**版本：** v19.2  \n**作者：** chiteroman, KOWX712\n\n## 简介\n绕过 Play 完整性检测（游戏/支付/银行必装）\n\n## 功能\n- ✅ 兼容 KernelSU / APatch / Magisk\n- ✅ 无需手动配置，安装即用\n- ✅ 支持在线更新\n\n## 下载\n[👉 点击下载最新版本](https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip)\n\n## 更多信息\n- [👉 访问作者 GitHub 仓库](https://github.com/KOWX712/PlayIntegrityFix)\n- [👉 反馈问题 / 查看更新日志](https://github.com/KOWX712/PlayIntegrityFix/issues)\n",
+  "readmeHTML": "\n<div style=\"padding: 16px;\">\n  <h2>Play Integrity Fix</h2>\n  \n  <p><strong>版本：</strong>v19.2</p>\n  <p><strong>作者：</strong>chiteroman, KOWX712</p>\n  \n  <h3>简介</h3>\n  <p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
   "homepageUrl": "https://github.com/KOWX712/PlayIntegrityFix",
   "sourceUrl": "https://github.com/KOWX712/PlayIntegrityFix",
   "url": "https://github.com/KOWX712/PlayIntegrityFix",
   "latestRelease": {
     "name": "v19.2",
-    "time": "2026-10-10T06:19:34Z",
+    "time": "2026-10-10T06:22:12Z",
     "downloadUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip"
   },
   "latestTag": "v19.2",
-  "latestTime": "2026-10-10T06:19:34Z",
+  "latestTime": "2026-10-10T06:22:12Z",
   "latestAssetName": "playintegrityfix.zip",
   "latestAssetUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
   "releases": [
     {
       "name": "v19.2",
       "tagName": "v19.2",
-      "publishedAt": "2026-10-10T06:19:34Z",
-      "descriptionHTML": "<p>绕过 Play 完整性检测（游戏/支付/银行必装）</p><p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">作者官网 →</a></p>",
+      "publishedAt": "2026-10-10T06:22:12Z",
+      "descriptionHTML": "\n<div style=\"padding: 16px;\">\n  <h2>Play Integrity Fix</h2>\n  \n  <p><strong>版本：</strong>v19.2</p>\n  <p><strong>作者：</strong>chiteroman, KOWX712</p>\n  \n  <h3>简介</h3>\n  <p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://github.com/KOWX712/PlayIntegrityFix/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
       "releaseAssets": [
         {
           "name": "playintegrityfix.zip",
