@@ -1,0 +1,27 @@
+{
+  "releases": [
+    {
+      "name": "v1.2.0",
+      "tagName": "v1.2.0",
+      "publishedAt": "2026-10-10T05:51:57Z",
+      "descriptionHTML": "<p>隐藏 Root 环境（配合 Zygisk 使用）</p>",
+      "assets": [
+        {
+          "name": "shamiko.zip",
+          "downloadUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
+          "size": 0,
+          "downloadCount": 0
+        }
+      ]
+    }
+  ],
+  "homepageUrl": "https://github.com/LSPosed/LSPosed.github.io",
+  "sourceUrl": "https://github.com/LSPosed/LSPosed.github.io",
+  "url": "https://github.com/LSPosed/LSPosed.github.io",
+  "readme": "",
+  "readmeHtml": "<h2>Shamiko</h2><p>隐藏 Root 环境（配合 Zygisk 使用）</p>",
+  "latestTag": "v1.2.0",
+  "latestTime": "2026-10-10T05:51:57Z",
+  "latestAssetName": "shamiko.zip",
+  "latestAssetUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip"
+}
