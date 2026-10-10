@@ -1,0 +1,27 @@
+{
+  "releases": [
+    {
+      "name": "v3.3.0",
+      "tagName": "v3.3.0",
+      "publishedAt": "2026-10-10T05:51:49Z",
+      "descriptionHTML": "<p>密钥认证绕过（配合 Play Integrity 使用）</p>",
+      "assets": [
+        {
+          "name": "tricky_store.zip",
+          "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
+          "size": 0,
+          "downloadCount": 0
+        }
+      ]
+    }
+  ],
+  "homepageUrl": "https://github.com/5ec1cff/TrickyStore",
+  "sourceUrl": "https://github.com/5ec1cff/TrickyStore",
+  "url": "https://github.com/5ec1cff/TrickyStore",
+  "readme": "",
+  "readmeHtml": "<h2>Tricky Store</h2><p>密钥认证绕过（配合 Play Integrity 使用）</p>",
+  "latestTag": "v3.3.0",
+  "latestTime": "2026-10-10T05:51:49Z",
+  "latestAssetName": "tricky_store.zip",
+  "latestAssetUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip"
+}
