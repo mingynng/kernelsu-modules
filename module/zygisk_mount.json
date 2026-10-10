@@ -1,24 +1,24 @@
 {
-  "readme": "# Zygisk Mount\n\nZygisk 模块挂载工具",
-  "readmeHTML": "<h2>Zygisk Mount</h2><p>Zygisk 模块挂载工具</p>",
+  "readme": "# Zygisk Mount\n\nZygisk 模块挂载工具\n\n[查看作者官网和完整介绍](https://github.com/KernelSU-Modules-Repo/zygisk_mount)\n",
+  "readmeHTML": "\n<h2>Zygisk Mount</h2>\n<p>Zygisk 模块挂载工具</p>\n<p><a href=\"https://github.com/KernelSU-Modules-Repo/zygisk_mount\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
   "sourceUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
   "url": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
   "latestRelease": {
     "name": "v1.0.0",
-    "time": "2026-10-10T06:12:41Z",
+    "time": "2026-10-10T06:20:11Z",
     "downloadUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip"
   },
   "latestTag": "v1.0.0",
-  "latestTime": "2026-10-10T06:12:41Z",
+  "latestTime": "2026-10-10T06:20:11Z",
   "latestAssetName": "zygisk_mount.zip",
   "latestAssetUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip",
   "releases": [
     {
       "name": "v1.0.0",
       "tagName": "v1.0.0",
-      "publishedAt": "2026-10-10T06:12:41Z",
-      "descriptionHTML": "<p>Zygisk 模块挂载工具</p>",
+      "publishedAt": "2026-10-10T06:20:11Z",
+      "descriptionHTML": "<p>Zygisk 模块挂载工具</p><p><a href=\"https://github.com/KernelSU-Modules-Repo/zygisk_mount\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "zygisk_mount.zip",
