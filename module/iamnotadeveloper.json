@@ -1,24 +1,24 @@
 {
-  "readme": "# IAmNotADeveloper\n\n隐藏开发者选项状态",
-  "readmeHTML": "<h2>IAmNotADeveloper</h2><p>隐藏开发者选项状态</p>",
+  "readme": "# IAmNotADeveloper\n\n隐藏开发者选项状态\n\n[查看作者官网和完整介绍](https://github.com/iamnotadev/IAmNotADeveloper)\n",
+  "readmeHTML": "\n<h2>IAmNotADeveloper</h2>\n<p>隐藏开发者选项状态</p>\n<p><a href=\"https://github.com/iamnotadev/IAmNotADeveloper\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/iamnotadev/IAmNotADeveloper",
   "sourceUrl": "https://github.com/iamnotadev/IAmNotADeveloper",
   "url": "https://github.com/iamnotadev/IAmNotADeveloper",
   "latestRelease": {
     "name": "v1.0.0",
-    "time": "2026-10-10T06:12:34Z",
+    "time": "2026-10-10T06:20:05Z",
     "downloadUrl": "https://github.com/iamnotadev/IAmNotADeveloper/releases/latest/download/IAmNotADeveloper.zip"
   },
   "latestTag": "v1.0.0",
-  "latestTime": "2026-10-10T06:12:34Z",
+  "latestTime": "2026-10-10T06:20:05Z",
   "latestAssetName": "iamnotadeveloper.zip",
   "latestAssetUrl": "https://github.com/iamnotadev/IAmNotADeveloper/releases/latest/download/IAmNotADeveloper.zip",
   "releases": [
     {
       "name": "v1.0.0",
       "tagName": "v1.0.0",
-      "publishedAt": "2026-10-10T06:12:34Z",
-      "descriptionHTML": "<p>隐藏开发者选项状态</p>",
+      "publishedAt": "2026-10-10T06:20:05Z",
+      "descriptionHTML": "<p>隐藏开发者选项状态</p><p><a href=\"https://github.com/iamnotadev/IAmNotADeveloper\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "iamnotadeveloper.zip",
