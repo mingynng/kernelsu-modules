@@ -1,296 +1,464 @@
 [
   {
     "moduleId": "playintegrityfix",
-    "name": "Play Integrity Fix",
-    "version": "v19.2",
-    "versionCode": 192,
-    "author": "chiteroman, KOWX712",
-    "description": "Fix Play Integrity (and SafetyNet) verdicts. Pass basic, device, and strong integrity checks.",
+    "moduleName": "Play Integrity Fix",
+    "authors": [
+      {
+        "name": "chiteroman, KOWX712",
+        "link": "https://github.com/KOWX712/PlayIntegrityFix"
+      }
+    ],
     "summary": "绕过 Play 完整性检测（游戏/支付/银行必装）",
-    "downloadUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
-    "icon": "https://github.com/KOWX712/PlayIntegrityFix/raw/main/icon.png",
-    "homepageUrl": "https://github.com/KOWX712/PlayIntegrityFix",
-    "readme": "https://github.com/KOWX712/PlayIntegrityFix/blob/main/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v19.2",
+      "version": "v19.2",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
+      "versionCode": 192
+    }
   },
   {
     "moduleId": "tricky_store",
-    "name": "Tricky Store",
-    "version": "v3.3.0",
-    "versionCode": 330,
-    "author": "5ec1cff",
-    "description": "Flexible and easy to use key attestation and keystore manipulation module. Supports Keybox injection.",
+    "moduleName": "Tricky Store",
+    "authors": [
+      {
+        "name": "5ec1cff",
+        "link": "https://github.com/5ec1cff/TrickyStore"
+      }
+    ],
     "summary": "密钥认证绕过（配合 Play Integrity 使用）",
-    "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
-    "icon": "https://github.com/5ec1cff/TrickyStore/raw/main/icon.png",
-    "homepageUrl": "https://github.com/5ec1cff/TrickyStore",
-    "readme": "https://github.com/5ec1cff/TrickyStore/blob/main/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v3.3.0",
+      "version": "v3.3.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
+      "versionCode": 330
+    }
   },
   {
     "moduleId": "zygisk_next",
-    "name": "Zygisk Next",
-    "version": "v1.0.6",
-    "versionCode": 106,
-    "author": "Dr-TSNG",
-    "description": "A complete type of Zygisk implementation for KernelSU and APatch. Required for LSPosed and Zygisk modules.",
+    "moduleName": "Zygisk Next",
+    "authors": [
+      {
+        "name": "Dr-TSNG",
+        "link": "https://github.com/Dr-TSNG/ZygiskNext"
+      }
+    ],
     "summary": "Zygisk 兼容层（装 LSPosed 必装）",
-    "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip",
-    "icon": "https://github.com/Dr-TSNG/ZygiskNext/raw/main/icon.png",
-    "homepageUrl": "https://github.com/Dr-TSNG/ZygiskNext",
-    "readme": "https://github.com/Dr-TSNG/ZygiskNext/blob/main/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.0.6",
+      "version": "v1.0.6",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/latest/download/ZygiskNext.zip",
+      "versionCode": 106
+    }
   },
   {
     "moduleId": "lsposed",
-    "name": "LSPosed",
-    "version": "v1.10.3",
-    "versionCode": 11030,
-    "author": "LSPosed Team",
-    "description": "LSPosed Framework based on Zygisk. The most popular Xposed framework for Android.",
+    "moduleName": "LSPosed",
+    "authors": [
+      {
+        "name": "LSPosed Team",
+        "link": "https://github.com/LSPosed/LSPosed"
+      }
+    ],
     "summary": "Xposed 框架（模块开发必备）",
-    "downloadUrl": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip",
-    "icon": "https://github.com/LSPosed/LSPosed/raw/master/mre/icon/icon.png",
-    "homepageUrl": "https://github.com/LSPosed/LSPosed",
-    "readme": "https://github.com/LSPosed/LSPosed/blob/master/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.10.3",
+      "version": "v1.10.3",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/LSPosed/LSPosed/releases/latest/download/LSPosed-v1.10.3-7022-zygisk-release.zip",
+      "versionCode": 11030
+    }
   },
   {
     "moduleId": "hide_my_applist",
-    "name": "Hide My Applist",
-    "version": "v3.5.2",
-    "versionCode": 352,
-    "author": "Dr-TSNG",
-    "description": "Hide your applist from any apps or any packages. Protect your privacy.",
+    "moduleName": "Hide My Applist",
+    "authors": [
+      {
+        "name": "Dr-TSNG",
+        "link": "https://github.com/Dr-TSNG/Hide-My-Applist"
+      }
+    ],
     "summary": "隐藏应用列表（防止应用扫描检测）",
-    "downloadUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip",
-    "icon": "https://github.com/Dr-TSNG/Hide-My-Applist/raw/master/app/src/main/ic_launcher-playstore.png",
-    "homepageUrl": "https://github.com/Dr-TSNG/Hide-My-Applist",
-    "readme": "https://github.com/Dr-TSNG/Hide-My-Applist/blob/master/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v3.5.2",
+      "version": "v3.5.2",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/Dr-TSNG/Hide-My-Applist/releases/latest/download/HideMyApplist.zip",
+      "versionCode": 352
+    }
   },
   {
     "moduleId": "shamiko",
-    "name": "Shamiko",
-    "version": "v1.2.0",
-    "versionCode": 120,
-    "author": "LSPosed",
-    "description": "LSPosed's Zygisk module to hide root from others. DenyList implementation.",
+    "moduleName": "Shamiko",
+    "authors": [
+      {
+        "name": "LSPosed",
+        "link": "https://github.com/LSPosed/LSPosed.github.io"
+      }
+    ],
     "summary": "隐藏 Root 环境（配合 Zygisk 使用）",
-    "downloadUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
-    "icon": "https://github.com/LSPosed/LSPosed.github.io/raw/master/art/sham.jpg",
-    "homepageUrl": "https://github.com/LSPosed/LSPosed.github.io",
-    "readme": "https://github.com/LSPosed/LSPosed.github.io/blob/master/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.2.0",
+      "version": "v1.2.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
+      "versionCode": 120
+    }
   },
   {
     "moduleId": "zygisk_detach",
-    "name": "Zygisk-Detach",
-    "version": "v0.6.5",
-    "versionCode": 65,
-    "author": "j-hc",
-    "description": "Zygisk module to detach installed apps from Play Store, hooking binder.",
+    "moduleName": "Zygisk-Detach",
+    "authors": [
+      {
+        "name": "j-hc",
+        "link": "https://github.com/j-hc/zygisk-detach"
+      }
+    ],
     "summary": "让应用从 Play 商店隐藏（防止 Play 检测）",
-    "downloadUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
-    "icon": "https://github.com/j-hc/zygisk-detach/raw/main/app/icon.png",
-    "homepageUrl": "https://github.com/j-hc/zygisk-detach",
-    "readme": "https://github.com/j-hc/zygisk-detach/blob/main/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v0.6.5",
+      "version": "v0.6.5",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/j-hc/zygisk-detach/releases/latest/download/zygisk-detach.zip",
+      "versionCode": 65
+    }
   },
   {
     "moduleId": "magic_overlayfs",
-    "name": "Magic OverlayFS",
-    "version": "v1.3.2",
-    "versionCode": 132,
-    "author": "KernelSU-Modules-Repo",
-    "description": "Magic Mount implementation via OverlayFS for KernelSU. Required for modules that modify /system files.",
+    "moduleName": "Magic OverlayFS",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs"
+      }
+    ],
     "summary": "元模块（修改系统文件必需）",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/releases/latest/download/magic_overlayfs.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs",
-    "readme": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/blob/main/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.3.2",
+      "version": "v1.3.2",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/magic_overlayfs/releases/latest/download/magic_overlayfs.zip",
+      "versionCode": 132
+    }
   },
   {
     "moduleId": "adaway",
-    "name": "AdAway",
-    "version": "v6.1.0",
-    "versionCode": 610,
-    "author": "AdAway",
-    "description": "System-wide ad blocking using hosts file. No root required for basic use, but root version is more powerful.",
+    "moduleName": "AdAway",
+    "authors": [
+      {
+        "name": "AdAway",
+        "link": "https://adaway.org"
+      }
+    ],
     "summary": "全系统广告拦截",
-    "downloadUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk",
-    "icon": "https://github.com/AdAway/AdAway/raw/master/app/src/main/ic_launcher_foreground.xml",
-    "homepageUrl": "https://adaway.org",
-    "readme": "https://github.com/AdAway/AdAway/blob/master/README.md",
-    "category": "实用工具"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v6.1.0",
+      "version": "v6.1.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/AdAway/AdAway/releases/latest/download/AdAway.apk",
+      "versionCode": 610
+    }
   },
   {
     "moduleId": "magnetar",
-    "name": "MAGNETAR",
-    "version": "v5.0.0",
-    "versionCode": 500,
-    "author": "magnetar-dev",
-    "description": "Comprehensive device performance optimizer. Dynamic kernel tweaking with machine learning.",
+    "moduleName": "MAGNETAR",
+    "authors": [
+      {
+        "name": "magnetar-dev",
+        "link": "https://magnetar.magisk.zip"
+      }
+    ],
     "summary": "智能内核性能优化",
-    "downloadUrl": "https://github.com/magnetar-dev/magnetar/releases/latest/download/magnetar.zip",
-    "icon": "",
-    "homepageUrl": "https://magnetar.magisk.zip",
-    "readme": "https://github.com/magnetar-dev/magnetar/blob/main/README.md",
-    "category": "性能优化"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v5.0.0",
+      "version": "v5.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/magnetar-dev/magnetar/releases/latest/download/magnetar.zip",
+      "versionCode": 500
+    }
   },
   {
     "moduleId": "funbox",
-    "name": "FunBox",
-    "version": "v2.0.0",
-    "versionCode": 200,
-    "author": "funbox-dev",
-    "description": "Boost Android performance. Thermal throttle control, storage optimization, network tuning.",
+    "moduleName": "FunBox",
+    "authors": [
+      {
+        "name": "funbox-dev",
+        "link": "https://funbox.magisk.zip"
+      }
+    ],
     "summary": "性能增强（温控/存储/网络优化）",
-    "downloadUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
-    "icon": "",
-    "homepageUrl": "https://funbox.magisk.zip",
-    "readme": "https://github.com/funbox-dev/funbox/blob/main/README.md",
-    "category": "性能优化"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v2.0.0",
+      "version": "v2.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
+      "versionCode": 200
+    }
   },
   {
     "moduleId": "smart_pixel",
-    "name": "Smart Pixels",
-    "version": "v1.7.0",
-    "versionCode": 170,
-    "author": "itsmalik030",
-    "description": "Custom Pixel experience for any device. Enable Pixel-only features like Google Photos unlimited storage, call recording, etc.",
+    "moduleName": "Smart Pixels",
+    "authors": [
+      {
+        "name": "itsmalik030",
+        "link": "https://github.com/itsmalik030/Smart-Pixels"
+      }
+    ],
     "summary": "Pixel 设备特性移植",
-    "downloadUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip",
-    "icon": "https://github.com/itsmalik030/Smart-Pixels/raw/master/icons/icon.png",
-    "homepageUrl": "https://github.com/itsmalik030/Smart-Pixels",
-    "readme": "https://github.com/itsmalik030/Smart-Pixels/blob/master/README.md",
-    "category": "功能增强"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.7.0",
+      "version": "v1.7.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/itsmalik030/Smart-Pixels/releases/latest/download/SmartPixels.zip",
+      "versionCode": 170
+    }
   },
   {
     "moduleId": "systemui_tuner",
-    "name": "SystemUI Tuner",
-    "version": "v3.0.0",
-    "versionCode": 300,
-    "author": "zacharee",
-    "description": "Advanced SystemUI customization. Tweak status bar, navbar, quick settings, and more.",
+    "moduleName": "SystemUI Tuner",
+    "authors": [
+      {
+        "name": "zacharee",
+        "link": "https://github.com/zacharee/Tweaker"
+      }
+    ],
     "summary": "系统 UI 高级自定义",
-    "downloadUrl": "https://github.com/zacharee/Tweaker/releases/latest/download/SystemUITuner.apk",
-    "icon": "https://github.com/zacharee/Tweaker/raw/master/app/src/main/ic_launcher-playstore.png",
-    "homepageUrl": "https://github.com/zacharee/Tweaker",
-    "readme": "https://github.com/zacharee/Tweaker/blob/master/README.md",
-    "category": "功能增强"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v3.0.0",
+      "version": "v3.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/zacharee/Tweaker/releases/latest/download/SystemUITuner.apk",
+      "versionCode": 300
+    }
   },
   {
     "moduleId": "netproxy",
-    "name": "NetProxy",
-    "version": "v1.2.0",
-    "versionCode": 120,
-    "author": "KernelSU-Modules-Repo",
-    "description": "System-wide proxy configuration module. Set HTTP/SOCKS proxy for all apps.",
+    "moduleName": "NetProxy",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo/netproxy"
+      }
+    ],
     "summary": "全系统代理设置",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/netproxy/releases/latest/download/netproxy.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/netproxy",
-    "readme": "https://github.com/KernelSU-Modules-Repo/netproxy/blob/main/README.md",
-    "category": "实用工具"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.2.0",
+      "version": "v1.2.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/netproxy/releases/latest/download/netproxy.zip",
+      "versionCode": 120
+    }
   },
   {
     "moduleId": "deviceid_changer",
-    "name": "DeviceID Changer",
-    "version": "v2.0.0",
-    "versionCode": 200,
-    "author": "KernelSU-Modules-Repo",
-    "description": "Change DeviceID/SSAID (Android ID) without wiping data.",
+    "moduleName": "DeviceID Changer",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo/deviceidchanger"
+      }
+    ],
     "summary": "修改设备 ID（防追踪）",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/releases/latest/download/deviceidchanger.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
-    "readme": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/blob/main/README.md",
-    "category": "隐私保护"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v2.0.0",
+      "version": "v2.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/releases/latest/download/deviceidchanger.zip",
+      "versionCode": 200
+    }
   },
   {
     "moduleId": "corepatch",
-    "name": "CorePatch",
-    "version": "v1.5.0",
-    "versionCode": 150,
-    "author": "LSPosed",
-    "description": "Fix core patch issues for Zygisk. Required for some apps that detect Zygisk.",
+    "moduleName": "CorePatch",
+    "authors": [
+      {
+        "name": "LSPosed",
+        "link": "https://github.com/LSPosed/CorePatch"
+      }
+    ],
     "summary": "Zygisk 核心补丁",
-    "downloadUrl": "https://github.com/LSPosed/CorePatch/releases/latest/download/CorePatch.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/LSPosed/CorePatch",
-    "readme": "https://github.com/LSPosed/CorePatch/blob/main/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.5.0",
+      "version": "v1.5.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/LSPosed/CorePatch/releases/latest/download/CorePatch.zip",
+      "versionCode": 150
+    }
   },
   {
     "moduleId": "iamnotadeveloper",
-    "name": "IAmNotADeveloper",
-    "version": "v1.0.0",
-    "versionCode": 100,
-    "author": "various",
-    "description": "Hide developer options and USB debugging status from apps that detect it.",
+    "moduleName": "IAmNotADeveloper",
+    "authors": [
+      {
+        "name": "various",
+        "link": "https://github.com/iamnotadev/IAmNotADeveloper"
+      }
+    ],
     "summary": "隐藏开发者选项状态",
-    "downloadUrl": "https://github.com/iamnotadev/IAmNotADeveloper/releases/latest/download/IAmNotADeveloper.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/iamnotadev/IAmNotADeveloper",
-    "readme": "https://github.com/iamnotadev/IAmNotADeveloper/blob/main/README.md",
-    "category": "隐藏环境"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/iamnotadev/IAmNotADeveloper/releases/latest/download/IAmNotADeveloper.zip",
+      "versionCode": 100
+    }
   },
   {
     "moduleId": "mrepo",
-    "name": "MRepo",
-    "version": "v1.0.5",
-    "versionCode": 105,
-    "author": "MRepoApp",
-    "description": "A modern modules manager for Magisk, KernelSU and APatch. Alternative to the built-in manager.",
+    "moduleName": "MRepo",
+    "authors": [
+      {
+        "name": "MRepoApp",
+        "link": "https://github.com/MRepoApp/MRepo"
+      }
+    ],
     "summary": "第三方模块管理器（功能更强）",
-    "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk",
-    "icon": "https://github.com/MRepoApp/MRepo/raw/master/app/src/main/ic_launcher-playstore.png",
-    "homepageUrl": "https://github.com/MRepoApp/MRepo",
-    "readme": "https://github.com/MRepoApp/MRepo/blob/master/README.md",
-    "category": "实用工具"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.0.5",
+      "version": "v1.0.5",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk",
+      "versionCode": 105
+    }
   },
   {
     "moduleId": "rezysc",
-    "name": "ReZygisk",
-    "version": "v1.2.0",
-    "versionCode": 120,
-    "author": "taojinzi",
-    "description": "Zygisk implementation for KernelSU and APatch.",
+    "moduleName": "ReZygisk",
+    "authors": [
+      {
+        "name": "taojinzi",
+        "link": "https://github.com/taojinzi/ReZygisk"
+      }
+    ],
     "summary": "Zygisk 实现（替代 Zygisk Next）",
-    "downloadUrl": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/taojinzi/ReZygisk",
-    "readme": "https://github.com/taojinzi/ReZygisk/blob/main/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.2.0",
+      "version": "v1.2.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/taojinzi/ReZygisk/releases/latest/download/ReZygisk.zip",
+      "versionCode": 120
+    }
   },
   {
     "moduleId": "zygisk_mount",
-    "name": "Zygisk Mount",
-    "version": "v1.0.0",
-    "versionCode": 100,
-    "author": "KernelSU-Modules-Repo",
-    "description": "Mount zygisk modules systemlessly.",
+    "moduleName": "Zygisk Mount",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo/zygisk_mount"
+      }
+    ],
     "summary": "Zygisk 模块挂载工具",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount",
-    "readme": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/blob/main/README.md",
-    "category": "基础框架"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/zygisk_mount/releases/latest/download/zygisk_mount.zip",
+      "versionCode": 100
+    }
   },
   {
     "moduleId": "webui_support",
-    "name": "WebUI Support",
-    "version": "v1.0.0",
-    "versionCode": 100,
-    "author": "KernelSU-Modules-Repo",
-    "description": "Add WebUI support for KernelSU modules.",
+    "moduleName": "WebUI Support",
+    "authors": [
+      {
+        "name": "KernelSU-Modules-Repo",
+        "link": "https://github.com/KernelSU-Modules-Repo/webui-support"
+      }
+    ],
     "summary": "模块 WebUI 支持",
-    "downloadUrl": "https://github.com/KernelSU-Modules-Repo/webui-support/releases/latest/download/webui-support.zip",
-    "icon": "",
-    "homepageUrl": "https://github.com/KernelSU-Modules-Repo/webui-support",
-    "readme": "https://github.com/KernelSU-Modules-Repo/webui-support/blob/main/README.md",
-    "category": "实用工具"
+    "metamodule": false,
+    "stargazerCount": 0,
+    "updatedAt": "2026-10-10T05:47:10Z",
+    "createdAt": "2026-10-10T05:47:10Z",
+    "latestRelease": {
+      "name": "v1.0.0",
+      "version": "v1.0.0",
+      "time": "2026-10-10T05:47:10Z",
+      "downloadUrl": "https://github.com/KernelSU-Modules-Repo/webui-support/releases/latest/download/webui-support.zip",
+      "versionCode": 100
+    }
   }
 ]
