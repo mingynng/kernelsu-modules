@@ -1,24 +1,24 @@
 {
-  "readme": "# Tricky Store\n\n密钥认证绕过（配合 Play Integrity 使用）",
-  "readmeHTML": "<h2>Tricky Store</h2><p>密钥认证绕过（配合 Play Integrity 使用）</p>",
+  "readme": "# Tricky Store\n\n密钥认证绕过（配合 Play Integrity 使用）\n\n[查看作者官网和完整介绍](https://github.com/5ec1cff/TrickyStore)\n",
+  "readmeHTML": "\n<h2>Tricky Store</h2>\n<p>密钥认证绕过（配合 Play Integrity 使用）</p>\n<p><a href=\"https://github.com/5ec1cff/TrickyStore\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/5ec1cff/TrickyStore",
   "sourceUrl": "https://github.com/5ec1cff/TrickyStore",
   "url": "https://github.com/5ec1cff/TrickyStore",
   "latestRelease": {
     "name": "v3.3.0",
-    "time": "2026-10-10T06:12:04Z",
+    "time": "2026-10-10T06:19:36Z",
     "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip"
   },
   "latestTag": "v3.3.0",
-  "latestTime": "2026-10-10T06:12:04Z",
+  "latestTime": "2026-10-10T06:19:36Z",
   "latestAssetName": "tricky_store.zip",
   "latestAssetUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
   "releases": [
     {
       "name": "v3.3.0",
       "tagName": "v3.3.0",
-      "publishedAt": "2026-10-10T06:12:04Z",
-      "descriptionHTML": "<p>密钥认证绕过（配合 Play Integrity 使用）</p>",
+      "publishedAt": "2026-10-10T06:19:36Z",
+      "descriptionHTML": "<p>密钥认证绕过（配合 Play Integrity 使用）</p><p><a href=\"https://github.com/5ec1cff/TrickyStore\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "tricky_store.zip",
