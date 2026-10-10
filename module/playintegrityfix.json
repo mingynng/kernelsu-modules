@@ -1,24 +1,24 @@
 {
-  "readme": "# Play Integrity Fix\n\n绕过 Play 完整性检测（游戏/支付/银行必装）",
-  "readmeHTML": "<h2>Play Integrity Fix</h2><p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>",
+  "readme": "# Play Integrity Fix\n\n绕过 Play 完整性检测（游戏/支付/银行必装）\n\n[查看作者官网和完整介绍](https://github.com/KOWX712/PlayIntegrityFix)\n",
+  "readmeHTML": "\n<h2>Play Integrity Fix</h2>\n<p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>\n<p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/KOWX712/PlayIntegrityFix",
   "sourceUrl": "https://github.com/KOWX712/PlayIntegrityFix",
   "url": "https://github.com/KOWX712/PlayIntegrityFix",
   "latestRelease": {
     "name": "v19.2",
-    "time": "2026-10-10T06:12:00Z",
+    "time": "2026-10-10T06:19:34Z",
     "downloadUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip"
   },
   "latestTag": "v19.2",
-  "latestTime": "2026-10-10T06:12:00Z",
+  "latestTime": "2026-10-10T06:19:34Z",
   "latestAssetName": "playintegrityfix.zip",
   "latestAssetUrl": "https://github.com/KOWX712/PlayIntegrityFix/releases/latest/download/PlayIntegrityFix.zip",
   "releases": [
     {
       "name": "v19.2",
       "tagName": "v19.2",
-      "publishedAt": "2026-10-10T06:12:00Z",
-      "descriptionHTML": "<p>绕过 Play 完整性检测（游戏/支付/银行必装）</p>",
+      "publishedAt": "2026-10-10T06:19:34Z",
+      "descriptionHTML": "<p>绕过 Play 完整性检测（游戏/支付/银行必装）</p><p><a href=\"https://github.com/KOWX712/PlayIntegrityFix\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "playintegrityfix.zip",
