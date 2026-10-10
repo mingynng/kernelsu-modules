@@ -1,24 +1,24 @@
 {
-  "readme": "# MRepo\n\n第三方模块管理器（功能更强）",
-  "readmeHTML": "<h2>MRepo</h2><p>第三方模块管理器（功能更强）</p>",
+  "readme": "# MRepo\n\n第三方模块管理器（功能更强）\n\n[查看作者官网和完整介绍](https://github.com/MRepoApp/MRepo)\n",
+  "readmeHTML": "\n<h2>MRepo</h2>\n<p>第三方模块管理器（功能更强）</p>\n<p><a href=\"https://github.com/MRepoApp/MRepo\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/MRepoApp/MRepo",
   "sourceUrl": "https://github.com/MRepoApp/MRepo",
   "url": "https://github.com/MRepoApp/MRepo",
   "latestRelease": {
     "name": "v1.0.5",
-    "time": "2026-10-10T06:12:37Z",
+    "time": "2026-10-10T06:20:07Z",
     "downloadUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk"
   },
   "latestTag": "v1.0.5",
-  "latestTime": "2026-10-10T06:12:37Z",
+  "latestTime": "2026-10-10T06:20:07Z",
   "latestAssetName": "mrepo.zip",
   "latestAssetUrl": "https://github.com/MRepoApp/MRepo/releases/latest/download/MRepo.apk",
   "releases": [
     {
       "name": "v1.0.5",
       "tagName": "v1.0.5",
-      "publishedAt": "2026-10-10T06:12:37Z",
-      "descriptionHTML": "<p>第三方模块管理器（功能更强）</p>",
+      "publishedAt": "2026-10-10T06:20:07Z",
+      "descriptionHTML": "<p>第三方模块管理器（功能更强）</p><p><a href=\"https://github.com/MRepoApp/MRepo\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "mrepo.zip",
