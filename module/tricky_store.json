@@ -1,24 +1,24 @@
 {
-  "readme": "# Tricky Store\n\n密钥认证绕过（配合 Play Integrity 使用）\n\n[查看作者官网和完整介绍](https://github.com/5ec1cff/TrickyStore)\n",
-  "readmeHTML": "\n<h2>Tricky Store</h2>\n<p>密钥认证绕过（配合 Play Integrity 使用）</p>\n<p><a href=\"https://github.com/5ec1cff/TrickyStore\">👉 查看作者官网和完整介绍</a></p>\n",
+  "readme": "# Tricky Store\n\n**版本：** v3.3.0  \n**作者：** 5ec1cff\n\n## 简介\n密钥认证绕过（配合 Play Integrity 使用）\n\n## 功能\n- ✅ 兼容 KernelSU / APatch / Magisk\n- ✅ 无需手动配置，安装即用\n- ✅ 支持在线更新\n\n## 下载\n[👉 点击下载最新版本](https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip)\n\n## 更多信息\n- [👉 访问作者 GitHub 仓库](https://github.com/5ec1cff/TrickyStore)\n- [👉 反馈问题 / 查看更新日志](https://github.com/5ec1cff/TrickyStore/issues)\n",
+  "readmeHTML": "\n<div style=\"padding: 16px;\">\n  <h2>Tricky Store</h2>\n  \n  <p><strong>版本：</strong>v3.3.0</p>\n  <p><strong>作者：</strong>5ec1cff</p>\n  \n  <h3>简介</h3>\n  <p>密钥认证绕过（配合 Play Integrity 使用）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
   "homepageUrl": "https://github.com/5ec1cff/TrickyStore",
   "sourceUrl": "https://github.com/5ec1cff/TrickyStore",
   "url": "https://github.com/5ec1cff/TrickyStore",
   "latestRelease": {
     "name": "v3.3.0",
-    "time": "2026-10-10T06:19:36Z",
+    "time": "2026-10-10T06:22:14Z",
     "downloadUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip"
   },
   "latestTag": "v3.3.0",
-  "latestTime": "2026-10-10T06:19:36Z",
+  "latestTime": "2026-10-10T06:22:14Z",
   "latestAssetName": "tricky_store.zip",
   "latestAssetUrl": "https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip",
   "releases": [
     {
       "name": "v3.3.0",
       "tagName": "v3.3.0",
-      "publishedAt": "2026-10-10T06:19:36Z",
-      "descriptionHTML": "<p>密钥认证绕过（配合 Play Integrity 使用）</p><p><a href=\"https://github.com/5ec1cff/TrickyStore\">作者官网 →</a></p>",
+      "publishedAt": "2026-10-10T06:22:14Z",
+      "descriptionHTML": "\n<div style=\"padding: 16px;\">\n  <h2>Tricky Store</h2>\n  \n  <p><strong>版本：</strong>v3.3.0</p>\n  <p><strong>作者：</strong>5ec1cff</p>\n  \n  <h3>简介</h3>\n  <p>密钥认证绕过（配合 Play Integrity 使用）</p>\n  \n  <h3>功能</h3>\n  <ul>\n    <li>✅ 兼容 KernelSU / APatch / Magisk</li>\n    <li>✅ 无需手动配置，安装即用</li>\n    <li>✅ 支持在线更新</li>\n  </ul>\n  \n  <h3>下载</h3>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore/releases/latest/download/TrickyStore.zip\">👉 点击下载最新版本</a></p>\n  \n  <h3>更多信息</h3>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore\">👉 访问作者 GitHub 仓库</a></p>\n  <p><a href=\"https://github.com/5ec1cff/TrickyStore/issues\">👉 反馈问题 / 查看更新日志</a></p>\n</div>\n",
       "releaseAssets": [
         {
           "name": "tricky_store.zip",
