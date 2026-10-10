@@ -1,24 +1,24 @@
 {
-  "readme": "# DeviceID Changer\n\n修改设备 ID（防追踪）",
-  "readmeHTML": "<h2>DeviceID Changer</h2><p>修改设备 ID（防追踪）</p>",
+  "readme": "# DeviceID Changer\n\n修改设备 ID（防追踪）\n\n[查看作者官网和完整介绍](https://github.com/KernelSU-Modules-Repo/deviceidchanger)\n",
+  "readmeHTML": "\n<h2>DeviceID Changer</h2>\n<p>修改设备 ID（防追踪）</p>\n<p><a href=\"https://github.com/KernelSU-Modules-Repo/deviceidchanger\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
   "sourceUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
   "url": "https://github.com/KernelSU-Modules-Repo/deviceidchanger",
   "latestRelease": {
     "name": "v2.0.0",
-    "time": "2026-10-10T06:12:31Z",
+    "time": "2026-10-10T06:20:02Z",
     "downloadUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/releases/latest/download/deviceidchanger.zip"
   },
   "latestTag": "v2.0.0",
-  "latestTime": "2026-10-10T06:12:31Z",
+  "latestTime": "2026-10-10T06:20:02Z",
   "latestAssetName": "deviceid_changer.zip",
   "latestAssetUrl": "https://github.com/KernelSU-Modules-Repo/deviceidchanger/releases/latest/download/deviceidchanger.zip",
   "releases": [
     {
       "name": "v2.0.0",
       "tagName": "v2.0.0",
-      "publishedAt": "2026-10-10T06:12:31Z",
-      "descriptionHTML": "<p>修改设备 ID（防追踪）</p>",
+      "publishedAt": "2026-10-10T06:20:02Z",
+      "descriptionHTML": "<p>修改设备 ID（防追踪）</p><p><a href=\"https://github.com/KernelSU-Modules-Repo/deviceidchanger\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "deviceid_changer.zip",
