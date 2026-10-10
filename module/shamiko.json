@@ -1,11 +1,25 @@
 {
+  "readme": "# Shamiko\n\n隐藏 Root 环境（配合 Zygisk 使用）",
+  "readmeHTML": "<h2>Shamiko</h2><p>隐藏 Root 环境（配合 Zygisk 使用）</p>",
+  "homepageUrl": "https://github.com/LSPosed/LSPosed.github.io",
+  "sourceUrl": "https://github.com/LSPosed/LSPosed.github.io",
+  "url": "https://github.com/LSPosed/LSPosed.github.io",
+  "latestRelease": {
+    "name": "v1.2.0",
+    "time": "2026-10-10T06:12:12Z",
+    "downloadUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip"
+  },
+  "latestTag": "v1.2.0",
+  "latestTime": "2026-10-10T06:12:12Z",
+  "latestAssetName": "shamiko.zip",
+  "latestAssetUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
   "releases": [
     {
       "name": "v1.2.0",
       "tagName": "v1.2.0",
-      "publishedAt": "2026-10-10T05:51:57Z",
+      "publishedAt": "2026-10-10T06:12:12Z",
       "descriptionHTML": "<p>隐藏 Root 环境（配合 Zygisk 使用）</p>",
-      "assets": [
+      "releaseAssets": [
         {
           "name": "shamiko.zip",
           "downloadUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip",
@@ -14,14 +28,5 @@
         }
       ]
     }
-  ],
-  "homepageUrl": "https://github.com/LSPosed/LSPosed.github.io",
-  "sourceUrl": "https://github.com/LSPosed/LSPosed.github.io",
-  "url": "https://github.com/LSPosed/LSPosed.github.io",
-  "readme": "",
-  "readmeHtml": "<h2>Shamiko</h2><p>隐藏 Root 环境（配合 Zygisk 使用）</p>",
-  "latestTag": "v1.2.0",
-  "latestTime": "2026-10-10T05:51:57Z",
-  "latestAssetName": "shamiko.zip",
-  "latestAssetUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/shamiko.zip"
+  ]
 }
