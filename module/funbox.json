@@ -1,24 +1,24 @@
 {
-  "readme": "# FunBox\n\n性能增强（温控/存储/网络优化）",
-  "readmeHTML": "<h2>FunBox</h2><p>性能增强（温控/存储/网络优化）</p>",
+  "readme": "# FunBox\n\n性能增强（温控/存储/网络优化）\n\n[查看作者官网和完整介绍](https://funbox.magisk.zip)\n",
+  "readmeHTML": "\n<h2>FunBox</h2>\n<p>性能增强（温控/存储/网络优化）</p>\n<p><a href=\"https://funbox.magisk.zip\">👉 查看作者官网和完整介绍</a></p>\n",
   "homepageUrl": "https://funbox.magisk.zip",
   "sourceUrl": "https://funbox.magisk.zip",
   "url": "https://funbox.magisk.zip",
   "latestRelease": {
     "name": "v2.0.0",
-    "time": "2026-10-10T06:12:23Z",
+    "time": "2026-10-10T06:19:54Z",
     "downloadUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip"
   },
   "latestTag": "v2.0.0",
-  "latestTime": "2026-10-10T06:12:23Z",
+  "latestTime": "2026-10-10T06:19:54Z",
   "latestAssetName": "funbox.zip",
   "latestAssetUrl": "https://github.com/funbox-dev/funbox/releases/latest/download/funbox.zip",
   "releases": [
     {
       "name": "v2.0.0",
       "tagName": "v2.0.0",
-      "publishedAt": "2026-10-10T06:12:23Z",
-      "descriptionHTML": "<p>性能增强（温控/存储/网络优化）</p>",
+      "publishedAt": "2026-10-10T06:19:54Z",
+      "descriptionHTML": "<p>性能增强（温控/存储/网络优化）</p><p><a href=\"https://funbox.magisk.zip\">作者官网 →</a></p>",
       "releaseAssets": [
         {
           "name": "funbox.zip",
